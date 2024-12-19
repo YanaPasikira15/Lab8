@@ -1,0 +1,14 @@
+C:\Users\XXX\source\repos\4Task\4Task\bin\Debug\net8.0\4Task.exe
+C:\Users\XXX\source\repos\4Task\4Task\bin\Debug\net8.0\4Task.deps.json
+C:\Users\XXX\source\repos\4Task\4Task\bin\Debug\net8.0\4Task.runtimeconfig.json
+C:\Users\XXX\source\repos\4Task\4Task\bin\Debug\net8.0\4Task.dll
+C:\Users\XXX\source\repos\4Task\4Task\bin\Debug\net8.0\4Task.pdb
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.AssemblyInfoInputs.cache
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.AssemblyInfo.cs
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.csproj.CoreCompileInputs.cache
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.dll
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\refint\4Task.dll
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.pdb
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\4Task.genruntimeconfig.cache
+C:\Users\XXX\source\repos\4Task\4Task\obj\Debug\net8.0\ref\4Task.dll
